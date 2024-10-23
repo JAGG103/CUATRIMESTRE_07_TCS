@@ -1,0 +1,9 @@
+{"Test:0": {"input": {"A": 0, "B": 0}, "output": {"nofsOut": -1}}, 
+"Test:1": {"input": {"A": -70, "B": -70}, "output": {"nofsOut": -1}}, 
+"Test:2": {"input": {"A": 191, "B": 191}, "output": {"nofsOut": -1}}, 
+"Test:3": {"input": {"A": 0, "B": 444}, "output": {"nofsOut": 0}}, 
+"Test:4": {"input": {"A": -71, "B": -27}, "output": {"nofsOut": 0}}, 
+"Test:5": {"input": {"A": 25, "B": 395}, "output": {"nofsOut": 0}}, 
+"Test:6": {"input": {"A": 0, "B": -434}, "output": {"nofsOut": 8}}, 
+"Test:7": {"input": {"A": 153, "B": -270}, "output": {"nofsOut": 6}}, 
+"Test:8": {"input": {"A": -165, "B": -185}, "output": {"nofsOut": 6}}}

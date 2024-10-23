@@ -1,0 +1,6 @@
+{"Test:0": {"input": {"x": 604, "y": 735, "z": 958}, "output": {"middle": 735}}, 
+"Test:1": {"input": {"x": 819, "y": -19, "z": -710}, "output": {"middle": -19}}, 
+"Test:2": {"input": {"x": -556, "y": -672, "z": -278}, "output": {"middle": -556}}, 
+"Test:3": {"input": {"x": -126, "y": 164, "z": -178}, "output": {"middle": -126}}, 
+"Test:4": {"input": {"x": 32, "y": 504, "z": 166}, "output": {"middle": 166}}, 
+"Test:5": {"input": {"x": 195, "y": -135, "z": 4}, "output": {"middle": 4}}}

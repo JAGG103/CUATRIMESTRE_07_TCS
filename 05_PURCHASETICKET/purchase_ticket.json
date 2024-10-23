@@ -1,0 +1,9 @@
+{"Test:0": {"input": {"status": "Infant", "fare": 830, "_buffer": 415}, "output": {"actual_fare": 0, "buffer": 415}}, 
+"Test:1": {"input": {"status": "Infant", "fare": 780, "_buffer": 846}, "output": {"actual_fare": 0, "buffer": 846}}, 
+"Test:2": {"input": {"status": "Student", "fare": 300, "_buffer": 150}, "output": {"actual_fare": 150, "buffer": 0}}, 
+"Test:3": {"input": {"status": "Student", "fare": 150, "_buffer": 834}, "output": {"actual_fare": 75, "buffer": 759}}, 
+"Test:4": {"input": {"status": "Normal", "fare": 30, "_buffer": 466}, "output": {"actual_fare": 30, "buffer": 436}}, 
+"Test:5": {"input": {"status": "Pensioner", "fare": 130, "_buffer": 854}, "output": {"actual_fare": 91, "buffer": 763}}, 
+"Test:6": {"input": {"status": "Disable", "fare": 340, "_buffer": 945}, "output": {"actual_fare": 238, "buffer": 707}}, 
+"Test:7": {"input": {"status": "Default", "fare": 810, "_buffer": 405}, "output": {"actual_fare": -1, "buffer": 405}}, 
+"Test:8": {"input": {"status": "Default", "fare": 930, "_buffer": 685}, "output": {"actual_fare": -1, "buffer": 685}}}

@@ -1,0 +1,6 @@
+{"Test:0": {"input": {"number": 25, "base": 2}, "output": {"iscz": "No"}}, 
+"Test:1": {"input": {"number": 76000, "base": 10}, "output": {"iscz": "No"}}, 
+"Test:2": {"input": {"number": 38232, "base": 9}, "output": {"iscz": "No"}}, 
+"Test:3": {"input": {"number": 26, "base": 2}, "output": {"iscz": "Yes"}}, 
+"Test:4": {"input": {"number": 66212, "base": 10}, "output": {"iscz": "Yes"}}, 
+"Test:5": {"input": {"number": 23389, "base": 8}, "output": {"iscz": "Yes"}}}

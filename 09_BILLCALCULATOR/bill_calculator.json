@@ -1,0 +1,4 @@
+{"Test:0": {"input": {"account": 0.0, "percentage": 0}, "output": {"total": 0.0}}, 
+"Test:1": {"input": {"account": 0.0, "percentage": 659}, "output": {"total": 0.0}}, 
+"Test:2": {"input": {"account": 425.6005196737053, "percentage": 0}, "output": {"total": 425.6005196737053}}, 
+"Test:3": {"input": {"account": 381.5352923232797, "percentage": 81}, "output": {"total": 690.5788791051363}}}

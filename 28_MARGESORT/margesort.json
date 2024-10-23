@@ -1,0 +1,4 @@
+{"Test:0": {"input": {"arr": []}, "output": {"arrsorted": []}}, 
+"Test:1": {"input": {"arr": [18]}, "output": {"arrsorted": [18]}}, 
+"Test:2": {"input": {"arr": [3, 9, 31, 11, 46, 13, 49, 18]}, "output": {"arrsorted": [3, 9, 11, 13, 18, 31, 46, 49]}}, 
+"Test:3": {"input": {"arr": [7, 4, 22, 19]}, "output": {"arrsorted": [4, 7, 19, 22]}}}

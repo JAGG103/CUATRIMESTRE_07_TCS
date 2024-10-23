@@ -1,0 +1,4 @@
+{"Test:0": {"input": {"arr": []}, "output": {"sum": 0}}, 
+"Test:1": {"input": {"arr": [-16]}, "output": {"sum": 0}}, 
+"Test:2": {"input": {"arr": [-28, -132, 134, -139, 140, -2, -6, -136]}, "output": {"sum": 140}}, 
+"Test:3": {"input": {"arr": [-152, 136, -58, 101, -81]}, "output": {"sum": 179}}}

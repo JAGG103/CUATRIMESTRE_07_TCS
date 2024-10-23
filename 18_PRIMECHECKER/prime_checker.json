@@ -1,0 +1,5 @@
+{"Test:0": {"input": {"num": 1}, "output": {"out": false}}, 
+"Test:1": {"input": {"num": -35}, "output": {"out": false}}, 
+"Test:2": {"input": {"num": 2}, "output": {"out": true}}, 
+"Test:3": {"input": {"num": 223}, "output": {"out": true}}, 
+"Test:4": {"input": {"num": 98}, "output": {"out": false}}}

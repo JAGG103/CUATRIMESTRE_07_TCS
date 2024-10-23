@@ -1,0 +1,4 @@
+{"Test:0": {"input": {"month": ["f", "e", "b", "r", "e", "r", "o"], "college": 46}, "output": {"total": 32.2}}, 
+"Test:1": {"input": {"month": ["a", "b", "r", "i", "l"], "college": 18}, "output": {"total": 14.4}}, 
+"Test:2": {"input": {"month": ["s", "e", "p", "t", "i", "e", "m", "b", "r", "e"], "college": 52}, "output": {"total": 46.8}}, 
+"Test:3": {"input": {"month": ["o", "c", "t", "u", "b", "r", "e", " ", " "], "college": 33}, "output": {"total": 33.0}}}

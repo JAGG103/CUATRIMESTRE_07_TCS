@@ -1,0 +1,5 @@
+{"Test:0": {"input": {"in": ["(", ")"]}, "output": {"isvalid": true}}, 
+"Test:1": {"input": {"in": [")", "("]}, "output": {"isvalid": false}}, 
+"Test:2": {"input": {"in": ["(", "(", ")", "(", "("]}, "output": {"isvalid": false}}, 
+"Test:3": {"input": {"in": ["(", ")"]}, "output": {"isvalid": true}}, 
+"Test:4": {"input": {"in": ["(", "(", ")", ")"]}, "output": {"isvalid": true}}}

@@ -1,0 +1,6 @@
+{"Test:0": {"input": {"x": 0, "y": 114}, "output": {"r": 0, "q": 0}}, 
+"Test:1": {"input": {"x": 1, "y": 270}, "output": {"r": 1, "q": 0}}, 
+"Test:2": {"input": {"x": 66, "y": 88}, "output": {"r": 66, "q": 0}}, 
+"Test:3": {"input": {"x": 1, "y": 1}, "output": {"r": 0, "q": 1}}, 
+"Test:4": {"input": {"x": 118, "y": 1}, "output": {"r": 0, "q": 118}}, 
+"Test:5": {"input": {"x": 172, "y": 106}, "output": {"r": 66, "q": 1}}}

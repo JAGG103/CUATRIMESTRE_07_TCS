@@ -1,0 +1,10 @@
+{"Test:0": {"input": {"score": 100}, "output": {"grade": "A"}}, 
+"Test:1": {"input": {"score": 90}, "output": {"grade": "A"}}, 
+"Test:2": {"input": {"score": 98}, "output": {"grade": "A"}}, 
+"Test:3": {"input": {"score": 80}, "output": {"grade": "B"}}, 
+"Test:4": {"input": {"score": 86}, "output": {"grade": "B"}}, 
+"Test:5": {"input": {"score": 70}, "output": {"grade": "C"}}, 
+"Test:6": {"input": {"score": 79}, "output": {"grade": "C"}}, 
+"Test:7": {"input": {"score": 60}, "output": {"grade": "D"}}, 
+"Test:8": {"input": {"score": 64}, "output": {"grade": "D"}}, 
+"Test:9": {"input": {"score": 26}, "output": {"grade": "F"}}}

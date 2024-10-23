@@ -1,0 +1,5 @@
+{"Test:0": {"input": {"n": 0}, "output": {"count": 0}}, 
+"Test:1": {"input": {"n": 1}, "output": {"count": 1}}, 
+"Test:2": {"input": {"n": 256}, "output": {"count": 1}}, 
+"Test:3": {"input": {"n": 3}, "output": {"count": 2}}, 
+"Test:4": {"input": {"n": 433}, "output": {"count": 5}}}

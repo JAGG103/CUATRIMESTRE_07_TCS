@@ -1,0 +1,4 @@
+{"Test:0": {"input": {"number": 1}, "output": {"ishappy": 1}}, 
+"Test:1": {"input": {"number": 68}, "output": {"ishappy": 1}}, 
+"Test:2": {"input": {"number": 4}, "output": {"ishappy": 0}}, 
+"Test:3": {"input": {"number": 77}, "output": {"ishappy": 0}}}
