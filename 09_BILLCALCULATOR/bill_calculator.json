@@ -1,4 +1,7 @@
 {"Test:0": {"input": {"account": 0.0, "percentage": 0}, "output": {"total": 0.0}}, 
-"Test:1": {"input": {"account": 0.0, "percentage": 659}, "output": {"total": 0.0}}, 
-"Test:2": {"input": {"account": 425.6005196737053, "percentage": 0}, "output": {"total": 425.6005196737053}}, 
-"Test:3": {"input": {"account": 381.5352923232797, "percentage": 81}, "output": {"total": 690.5788791051363}}}
+"Test:1": {"input": {"account": 0.0, "percentage": 180}, "output": {"total": 0.0}}, 
+"Test:2": {"input": {"account": 391.1792256953529, "percentage": 0}, "output": {"total": 391.1792256953529}}, 
+"Test:3": {"input": {"account": 157.41258162633085, "percentage": 795}, "output": {"total": 1408.842605555661}}, 
+"Test:4": {"input": {"account": 0.0, "percentage": -298}, "output": {"total": 0.0}}, 
+"Test:5": {"input": {"account": 727.7498245254021, "percentage": -771}, "output": {"total": 727.7498245254021}}, 
+"Test:6": {"input": {"account": -310.64800144990977, "percentage": -156}, "output": {"total": -1.0}}}
