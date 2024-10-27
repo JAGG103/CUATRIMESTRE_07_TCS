@@ -1,6 +1,1 @@
-{"Test:0": {"input": {"x": 604, "y": 735, "z": 958}, "output": {"middle": 735}}, 
-"Test:1": {"input": {"x": 819, "y": -19, "z": -710}, "output": {"middle": -19}}, 
-"Test:2": {"input": {"x": -556, "y": -672, "z": -278}, "output": {"middle": -556}}, 
-"Test:3": {"input": {"x": -126, "y": 164, "z": -178}, "output": {"middle": -126}}, 
-"Test:4": {"input": {"x": 32, "y": 504, "z": 166}, "output": {"middle": 166}}, 
-"Test:5": {"input": {"x": 195, "y": -135, "z": 4}, "output": {"middle": 4}}}
+{"Test:0": {"input": {"x": -153, "y": 201, "z": 352}, "output": {"middle": 201}}, "Test:1": {"input": {"x": 618, "y": 560, "z": -458}, "output": {"middle": 560}}, "Test:2": {"input": {"x": -522, "y": -862, "z": -182}, "output": {"middle": -522}}, "Test:3": {"input": {"x": 519, "y": 827, "z": -980}, "output": {"middle": 519}}, "Test:4": {"input": {"x": -799, "y": 979, "z": -304}, "output": {"middle": -304}}, "Test:5": {"input": {"x": -26, "y": -540, "z": -451}, "output": {"middle": -451}}, "Test:6": {"input": {"x": 49, "y": 49, "z": 49}, "output": {"middle": 49}}, "Test:7": {"input": {"x": 549, "y": 549, "z": 132}, "output": {"middle": 549}}, "Test:8": {"input": {"x": -567, "y": -567, "z": -65}, "output": {"middle": -567}}, "Test:9": {"input": {"x": 610, "y": -292, "z": 610}, "output": {"middle": 610}}, "Test:10": {"input": {"x": -567, "y": 992, "z": -567}, "output": {"middle": -567}}, "Test:11": {"input": {"x": -921, "y": -962, "z": -962}, "output": {"middle": -962}}, "Test:12": {"input": {"x": -304, "y": 779, "z": 779}, "output": {"middle": 779}}}
